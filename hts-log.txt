@@ -1,0 +1,88 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Jan 2023 10:28:09 at https://products.webrockmedia.com/prayer-html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://products.webrockmedia.com/prayer-html/index.html -O1 "D:\RANA\Rana" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:28:12	Warning: 	Found for https://products.webrockmedia.com/robots.txt
+10:28:12	Warning: 	File has moved from https://products.webrockmedia.com/robots.txt to 404.html
+10:28:31	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/fonts/404.html (loop to same filename)
+10:28:31	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/fonts/404.html
+10:28:32	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/fonts/404.html (loop to same filename)
+10:28:32	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/fonts/404.html
+10:28:33	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/fonts/404.html (loop to same filename)
+10:28:33	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/fonts/404.html
+10:28:34	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/fonts/404.html (loop to same filename)
+10:28:34	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/fonts/404.html
+10:28:35	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/fonts/404.html (loop to same filename)
+10:28:35	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/fonts/404.html
+10:28:35	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/fonts/404.html (loop to same filename)
+10:28:35	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/fonts/404.html
+10:28:36	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/fonts/404.html (loop to same filename)
+10:28:36	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/fonts/404.html
+10:28:37	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/fonts/404.html (loop to same filename)
+10:28:37	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/fonts/404.html
+10:28:38	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/fonts/404.html (loop to same filename)
+10:28:38	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/fonts/404.html
+10:28:39	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/fonts/404.html (loop to same filename)
+10:28:39	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/fonts/404.html
+10:28:40	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/css/404.html (loop to same filename)
+10:28:40	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/css/404.html
+10:28:41	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/fonts/revicons/404.html (loop to same filename)
+10:28:41	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/fonts/revicons/404.html
+10:28:41	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/fonts/revicons/404.html (loop to same filename)
+10:28:41	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/fonts/revicons/404.html
+10:28:43	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/fonts/revicons/404.html (loop to same filename)
+10:28:43	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/fonts/revicons/404.html
+10:28:43	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/fonts/revicons/404.html (loop to same filename)
+10:28:43	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/fonts/revicons/404.html
+10:28:44	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/css/404.html (loop to same filename)
+10:28:44	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/css/404.html
+10:28:45	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/css/404.html (loop to same filename)
+10:28:45	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/css/404.html
+10:28:45	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html (loop to same filename)
+10:28:45	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html
+10:28:46	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html (loop to same filename)
+10:28:46	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html
+10:28:47	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html (loop to same filename)
+10:28:47	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html
+10:28:47	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html (loop to same filename)
+10:28:47	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html
+10:28:48	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html (loop to same filename)
+10:28:48	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html
+10:28:49	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html (loop to same filename)
+10:28:49	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html
+10:28:50	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html (loop to same filename)
+10:28:50	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/plugins/revolution/assets/404.html
+10:29:02	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/404.html (loop to same filename)
+10:29:02	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/404.html
+10:29:03	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/404.html (loop to same filename)
+10:29:03	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/404.html
+10:29:03	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/404.html (loop to same filename)
+10:29:03	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/404.html
+10:29:04	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/404.html (loop to same filename)
+10:29:04	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/404.html
+10:29:05	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/404.html (loop to same filename)
+10:29:05	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/404.html
+10:29:06	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/404.html (loop to same filename)
+10:29:06	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/404.html
+10:29:06	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/images/404.html (loop to same filename)
+10:29:06	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/images/404.html
+10:29:07	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/assets/404.html (loop to same filename)
+10:29:07	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/assets/404.html
+10:29:08	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/404.html (loop to same filename)
+10:29:08	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/404.html
+10:29:25	Warning: 	Found for https://products.webrockmedia.com/prayer-html/Version/
+10:29:25	Warning: 	File has moved from https://products.webrockmedia.com/prayer-html/Version/ to 404.html
+10:29:27	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/Version/404.html (loop to same filename)
+10:29:27	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/Version/404.html
+10:29:27	Warning: 	Unable to test https://products.webrockmedia.com/prayer-html/Version/404.html (loop to same filename)
+10:29:27	Warning: 	link is probably looping, type unknown, aborting: https://products.webrockmedia.com/prayer-html/Version/404.html
+10:29:27	Warning: 	Retry after error 504 (Gateway Time-out) at link https://secure-a.vimeocdn.com/js/froogaloop2.min.js (from https://products.webrockmedia.com/prayer-html/plugins/revolution/js/extensions/revolution.extension.video.min.js)
+10:29:27	Warning: 	Retry after error 504 () at link https://secure-a.vimeocdn.com/js/froogaloop2.min.js (from https://products.webrockmedia.com/prayer-html/plugins/revolution/js/extensions/revolution.extension.video.min.js)
+10:29:27	Error: 	"" (504) after 2 retries at link https://secure-a.vimeocdn.com/js/froogaloop2.min.js (from https://products.webrockmedia.com/prayer-html/plugins/revolution/js/extensions/revolution.extension.video.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 18 seconds : 90 links scanned, 85 files written (28162067 bytes overall) [27091451 bytes received at 347326 bytes/sec], 1982756 bytes transferred using HTTP compression in 51 files, ratio 37%, 22.4 requests per connection
+(1 errors, 76 warnings, 0 messages)
